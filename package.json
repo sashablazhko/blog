@@ -66,7 +66,7 @@
   "version": "1.0.0",
   "description": "react-start",
   "main": "server.js",
-  "repository": "git@github.com:btholt/complete-intro-to-react.git",
+  "repository": "git@github.com:sashablazhko/blog.git",
   "author": "Sasha Blazhko <sashablazhko@gmail.com>",
   "license": "MIT"
 }
